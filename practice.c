@@ -2,7 +2,7 @@
 #include <stdio.h>
 int main()
 {
-  printf("Hello World and HIT \n");
+  printf("Hello World and GIT \n");
  }
   
   
